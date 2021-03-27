@@ -39,15 +39,13 @@
   </p>
 </p>
 <p align="center">喜欢这个项目？请考虑<a href="">捐赠</a>来帮助它完善！
+<h3 align="center">当然，觉得默默关注也是鼓励的话，也可以在右上角给颗⭐！你的支持是我最大的动力！</h3>
 
 
 
 
 
 
-
-
-## 请仔细阅读 [WIKI](https://github.com/lan-tianxiang/jd_shell/wiki) 和各文件注释，95%的问题都能找到答案
 
 ## 适用于以下系统
 
@@ -87,6 +85,8 @@ wget -q https://gitee.com/highdimen/jd_shell/raw/v3/install_scripts/docker_insta
 > 注意：1. 此脚本适用于任何脚本出现异常，无法更新，出现未知错误时运行。不会清除账号以及配置数据，请放心使用！！
 
 ***
+
+### [WIKI](https://github.com/lan-tianxiang/jd_shell/wiki) 和各文件注释都含有大量教程，请自行翻阅
 
 ## 说明
 
