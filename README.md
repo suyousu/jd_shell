@@ -38,8 +38,8 @@
     <a href="https://github.com/lan-tianxiang/jd_shell/issues/new/choose">请求增加功能</a>
   </p>
 </p>
-<p align="center">喜欢这个项目？请考虑<a href="">捐赠</a>来帮助它完善！
-<h3 align="center">当然，觉得默默关注也是鼓励的话，也可以在右上角给颗⭐！你的支持是我最大的动力！</h3>
+<p align="center">喜欢这个项目？请考虑<a href="">捐赠❤</a>来帮助它完善！
+<h3 align="center">当然，觉得默默关注也是鼓励的话，也可以在右上角给颗⭐！你的支持是我最大的动力😎！</h3>
 <p>
     <br />
     <br />
