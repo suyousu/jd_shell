@@ -71,7 +71,7 @@ wget -q https://gitee.com/highdimen/jd_shell/raw/v3/install_scripts/linux_instal
 ```
 若提示没有安装wget,则安装wget
 
-### 2. Docker 一键部署单个容器：
+### 2. Docker 一键部署单个容器：[![Docker Pulls](https://img.shields.io/docker/pulls/lantianxiang1/jd_shell?style=for-the-badge)](https://hub.docker.com/repository/docker/lantianxiang1/jd_shell)
 
 ```shell
 wget -q https://gitee.com/highdimen/jd_shell/raw/v3/install_scripts/docker_install_jd.sh -O docker_install_jd.sh && chmod +x docker_install_jd.sh && bash docker_install_jd.sh
